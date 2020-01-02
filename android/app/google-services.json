@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1043910174396",
+    "firebase_url": "https://teatrall.firebaseio.com",
+    "project_id": "teatrall",
+    "storage_bucket": "teatrall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043910174396:android:8a27de40eae2c3982312b9",
+        "android_client_info": {
+          "package_name": "com.teatrall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043910174396-auomdb0ri99egj51kqkla6d62adqcktn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teatrall",
+            "certificate_hash": "54fec6ea313b100a6a634ab0cb230f4caddd329a"
+          }
+        },
+        {
+          "client_id": "1043910174396-7ttghfpa74osp3106pafoj7ahp4e72ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOSEgRl0YLYiIZW-nQPdYqw9IUR9kEno0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043910174396-7ttghfpa74osp3106pafoj7ahp4e72ue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

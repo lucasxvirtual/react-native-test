@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">teatrall</string>
+    <string name="facebook_app_id">1782167728749379</string>
+    <string name="fb_login_protocol_scheme">fb1782167728749379</string>
+</resources>
